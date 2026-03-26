@@ -27,7 +27,7 @@ Completed a beginner-level coding challenge on HackerRank and created a Google F
 Drafted professional emails and created a social media checklist to demonstrate proper online communication and behavior.
 
 ### Task 5: Cybercrime Awareness
-Prepared a case study on cybercrime and designed a prevention checklist to promote safe internet practices among students.
+    Prepared a case study on cybercrime and designed a prevention checklist to promote safe internet practices among students.
 -----
 **Overall Project Reflection**
 
@@ -58,4 +58,4 @@ The most significant takeaway was realizing that GitHub is more than a code stor
 ---
 
 ## Conclusion
-"Completing this Digital Literacy assignment has equipped me with the foundational tools to navigate my four-year engineering journey. From mastering professional email tones to understanding the mechanics of cybercrime prevention, I am now better prepared to guide my peers as a Digital Ambassador. This project has successfully bridged the gap between academic theory and the practical digital presence required in the 21st-century industry.
+"Completing this Digital Literacy assignment has equipped me with the foundational tools to navigate my four-year engineering journey. From mastering professional email tones to understanding the mechanics of cybercrime prevention, I am now better prepared to guide my peers as a Digital Ambassador. This project has successfully bridged the gap between academic theory and the practical digital presence required in the 21st-century industry."
