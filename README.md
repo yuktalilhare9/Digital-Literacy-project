@@ -27,7 +27,7 @@ Completed a beginner-level coding challenge on HackerRank and created a Google F
 Drafted professional emails and created a social media checklist to demonstrate proper online communication and behavior.
 
 ### Task 5: Cybercrime Awareness
-    Prepared a case study on cybercrime and designed a prevention checklist to promote safe internet practices among students.
+* Prepared a case study on cybercrime and designed a prevention checklist to promote safe internet practices among students.
 -----
 **Overall Project Reflection**
 
@@ -47,6 +47,7 @@ For Task **5**, I took a "preventative" approach, researching real-world risks l
 ------
 
 **Key Learnings**
+
 The most significant takeaway was realizing that GitHub is more than a code storage site; it is a live portfolio of one’s work ethic.I learned that professional communication (Email Etiquette) and cybersecurity awareness are not just "soft skills" but essential survival tools in a digital-first world. Moving forward, I plan to maintain these platforms as I progress through my B.Tech degree, ensuring my digital footprint remains an asset rather than a liability.
 
 ---
